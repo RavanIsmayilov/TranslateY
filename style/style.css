@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+
+.div {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
+
+.down {
+  width: 80px;
+  background-color: red;
+  color: white;
+  padding: 15px;
+  border: none;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.up {
+  width: 80px;
+  background-color: red;
+  color: white;
+  padding: 15px;
+  border: none;
+  margin-left: 15px;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
